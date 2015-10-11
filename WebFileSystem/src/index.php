@@ -54,6 +54,7 @@
                             } else {
                                 echo "NO";
                             } ?></td>
+                        
                         <!-- model to copy -->
                         <td><?php ?></td>
                     </tr>
